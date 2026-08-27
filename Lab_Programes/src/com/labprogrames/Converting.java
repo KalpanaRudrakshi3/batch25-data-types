@@ -2,12 +2,12 @@ package com.labprogrames;
 //18/8/26
 //jvm will provides default values
 // *for numbers it is like 0
-//* for decimal point data 0.0
+//* for decimal point data 0.0 
 //for single char is ------space
 // for boolean is ------false
-//byte--short--int--long--(implicit)
+//byte--short--int--long--(implicit)                          
 //long--int--short--byte--(explicit)
-public class Converting {
+public class Converting {   
 	//more than 127 is not possible 
 	//CE:type mismatch:cannot convert from int ti byte
 	//by default RHS numeric values are int values
