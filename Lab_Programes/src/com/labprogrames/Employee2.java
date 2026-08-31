@@ -5,11 +5,12 @@ public class Employee2 {
 	
 	void Employeename() {
 		System.out.println("kalpana");
-	
+
 	}
+
 	void EmployeeID() {
 		System.out.println(101);
-	
+
 	}
 	
 	void Department(){
